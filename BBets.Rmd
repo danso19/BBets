@@ -109,6 +109,9 @@ t.test(fbank)
 fav_stats(fbank)
 ```
 
+
+with this we can see where and what the median of finanacial gain would be as it peaks atthe frequency of 250 times when around 275$ as well that from the simple t.test we can see mean of x = 283.843 in the sample data.
+
 ## We will run BrLw untile we end on a 95% confidence interval
 # Discussion and Conclusion
 
@@ -121,4 +124,4 @@ high=sortedbank[975]
 
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
-
+From this content we can dervive to the conclusion that we can see that the brownlows betting would peak at 250 frecuency of about 275$ this would allow us to concluse thta most likely this is an efficient way to bet, as the probability of gaining money would increase with more population thereof and in a larger scale , 
