@@ -60,7 +60,7 @@ print(sorted[12])
 print(sorted[488])
 
 ```
-
+with this histagram this allows us to see in this betting intyerval that over a period of 5,000 classes with 35 students we find a huge standard deviation of 52.59 as well as the median being 5.7 on avarage . ass this wiould lead and point the zero value in the middle.
 
 
 
