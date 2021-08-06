@@ -90,7 +90,7 @@ BrLw(numClass = 28,odds = 2.0,counttoDo = 637)
 ```{r}
 BrLw(35,2,637)
 ```
-
+with these five attempts they helped us understand what the avarages and what numbers would result if we attempted to change the nuber of students per class and how that would also affect the total after completing the brownlow bets.
 
 # In the class and payoff as described what is a 95% confidence interval for Brownlow's earnings?
   
